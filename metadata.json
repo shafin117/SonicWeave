@@ -1,0 +1,5 @@
+{
+  "name": "SonicWeave Audio Merger",
+  "description": "A professional audio timeline editor. Upload multiple audio clips, set their start times, and merge them into a single track.",
+  "requestFramePermissions": []
+}
